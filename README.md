@@ -18,18 +18,22 @@ The goal of this repository is to demonstrate practical proficiency in managing 
 
 ## 📂 Repository Structure
 
-├── 01-identity-provisioning/     # User/Group management, dynamic rules, and bulk ops
-├── 02-conditional-access/        # Security baselines, MFA enforcement, location policies
-├── 03-pim-and-governance/        # Role elevation setups, access reviews, RBAC controls
-├── 04-app-registrations-sso/     # Enterprise apps, OAuth/SAML configurations, permissions
-└── docs/                         # Lab guides, topology diagrams, and notes
+1) Entra ID Architecture & Fundamentals
+2) Hybrid Identity
+3) Conditional Access
+4) Privileged Identity Management
+5) Application Integration
+6) Identity Governance
+7) Tenant-to-Tenant Application
+8) Monitoring & Troubleshooting
 
----
+
 
 ## 👨‍💻 Author
 
 **Jarred Hinton**
-* LinkedIn: [Your LinkedIn Profile Link]
+* LinkedIn: www.linkedin.com/in/jarred-hinton
+
 * Portfolio / Notes: [Link to Notion or personal blog, if applicable]
 
 ---
